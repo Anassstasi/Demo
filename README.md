@@ -6,3 +6,4 @@
 Comment from github
 
 This is comment from feature branch
+This is comment from feature locally
